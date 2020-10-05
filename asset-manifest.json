@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ebijvoet/simple-todo-app/static/css/main.cfa66741.chunk.css",
+    "main.js": "/ebijvoet/simple-todo-app/static/js/main.dfd98281.chunk.js",
+    "main.js.map": "/ebijvoet/simple-todo-app/static/js/main.dfd98281.chunk.js.map",
+    "runtime-main.js": "/ebijvoet/simple-todo-app/static/js/runtime-main.8fdd3b89.js",
+    "runtime-main.js.map": "/ebijvoet/simple-todo-app/static/js/runtime-main.8fdd3b89.js.map",
+    "static/js/2.354bc41a.chunk.js": "/ebijvoet/simple-todo-app/static/js/2.354bc41a.chunk.js",
+    "static/js/2.354bc41a.chunk.js.map": "/ebijvoet/simple-todo-app/static/js/2.354bc41a.chunk.js.map",
+    "index.html": "/ebijvoet/simple-todo-app/index.html",
+    "precache-manifest.466fb5a8a4abe9e4ab4ed30edfbf003e.js": "/ebijvoet/simple-todo-app/precache-manifest.466fb5a8a4abe9e4ab4ed30edfbf003e.js",
+    "service-worker.js": "/ebijvoet/simple-todo-app/service-worker.js",
+    "static/css/main.cfa66741.chunk.css.map": "/ebijvoet/simple-todo-app/static/css/main.cfa66741.chunk.css.map",
+    "static/js/2.354bc41a.chunk.js.LICENSE.txt": "/ebijvoet/simple-todo-app/static/js/2.354bc41a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fdd3b89.js",
+    "static/js/2.354bc41a.chunk.js",
+    "static/css/main.cfa66741.chunk.css",
+    "static/js/main.dfd98281.chunk.js"
+  ]
+}
